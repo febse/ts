@@ -1,0 +1,11 @@
+#!/bin/sh
+# Strip execution counters and machine-specific metadata from staged notebooks,
+# then regenerate the stripped class notebooks and stage them with the commit.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
+git diff --cached --name-only --diff-filter=ACM -z -- '*.ipynb' |
+  xargs -0 -r uv run python scripts/strip_notebook_metadata.py || exit 1
+git diff --cached --name-only --diff-filter=ACM -z -- '*.ipynb' | xargs -0 -r git add
+
+uv run python scripts/make_class_notebooks.py || exit 1
+git add class
