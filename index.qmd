@@ -1,0 +1,44 @@
+# General Information {.unnumbered}
+
+::: callout-note
+## Site URL
+
+[{{< var url >}}]({{< var url >}}){style="font-size:2em; margin-left: 1em;"}
+
+![](figures/qr_code.png)
+:::
+
+
+## Notebooks
+
+Course notebooks will be linked here as they are added. Each notebook can be opened directly in Google Colab, e.g.:
+
+
+## Schedule
+
+1. Wednesday, 9:30-11:00, room 520 (in Bulgarian)
+2. Wednesday, 13:15-14:45, room 308k
+3. Wednesday, 13:15-14:45, room 215k
+4. Thursday, 10:15-11:45, room 302k
+
+## Grading
+
+TBA
+
+## GitHub Repository
+
+All course materials for the exercise classes will be available in the GitHub
+repository:
+
+[{{< var github >}}]({{< var github >}})
+
+## Software Setup
+
+Please make sure that you have a working [Google](https://www.google.com/) and [GitHub](https://github.com/signup) accounts.
+
+We recommend that you enable a two factor authentication on both accounts.
+
+## Recommended Reading
+
+1. @KIRCHGASSNER2013IntroductionModernTime
+2. @COWPERTWAIT2009IntroductoryTimeSeries

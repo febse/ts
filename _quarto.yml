@@ -7,7 +7,7 @@ book:
   author: "Boyko Amarov"
   date: last-modified
   chapters:
-    - index.ipynb
+    - index.qmd
     - 01-Introduction.ipynb
     - 02-Linear-Difference-Equations.ipynb
     - 03-Statistics-Review.ipynb
