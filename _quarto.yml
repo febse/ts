@@ -10,7 +10,7 @@ book:
     - index.qmd
     - part: "Linear Difference Equations"
       chapters:
-        - 01a-Linear-Difference-Equations.ipynb
+        - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
         - 01c-AR2-Eigenvalue-Decomposition.ipynb
     - 02-Ergodicity.ipynb
