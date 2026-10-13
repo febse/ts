@@ -11,7 +11,7 @@
 
 ## Class Notebooks
 
-Course notebooks will be linked here as they are added. Each notebook can be opened directly in Google Colab, e.g.:
+Course notebooks will be linked here as they are added. Click to open these in Google Colab. You can also download the notebooks and run them locally in Jupyter Notebook, Jupyter Lab, VS Code. or your favorite IDE (you should handle the dependencies installation when working locally).
 
 - [01a-Homogeneous-Linear-Difference-Equations.ipynb](https://colab.research.google.com/github/febse/ts/blob/main/class/01a-Homogeneous-Linear-Difference-Equations.ipynb)
 - [01b-Non-Homogeneous-Difference-Equations](https://colab.research.google.com/github/febse/ts/blob/main/class/01b-Non-Homogeneous-Difference-Equations.ipynb)
