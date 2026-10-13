@@ -9,9 +9,13 @@
 :::
 
 
-## Notebooks
+## Class Notebooks
 
 Course notebooks will be linked here as they are added. Each notebook can be opened directly in Google Colab, e.g.:
+
+- [01a-Homogeneous-Linear-Difference-Equations.ipynb](https://colab.research.google.com/github/febse/ts/blob/main/class/01a-Homogeneous-Linear-Difference-Equations.ipynb)
+- [01b-Non-Homogeneous-Difference-Equations](https://colab.research.google.com/github/febse/ts/blob/main/class/01b-Non-Homogeneous-Difference-Equations.ipynb)
+- [01c-AR2-Eigenvalue-Decomposition](https://colab.research.google.com/github/febse/ts/blob/main/class/01c-AR2-Eigenvalue-Decomposition.ipynb)
 
 
 ## Schedule

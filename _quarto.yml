@@ -8,17 +8,12 @@ book:
   date: last-modified
   chapters:
     - index.qmd
-    - 01-Introduction.ipynb
-    - 02-Linear-Difference-Equations.ipynb
-    - 03-Statistics-Review.ipynb
-    # - 04-ARMA-Class.ipynb
-    - 04-ARMA.ipynb
-    - 05-ARMA-Fitting.ipynb
-    - 06-ARIMA-Forecasting.ipynb
-    - 07-Unit-Root-Tests.ipynb
-    - 08-GARCH.ipynb
-    - 09-Seasonality.ipynb
-    # - 04-A-Complex-Multiplication.ipynb
+    - part: "Linear Difference Equations"
+      chapters:
+        - 01a-Linear-Difference-Equations.ipynb
+        - 01b-Non-Homogeneous-Difference-Equations.ipynb
+        - 01c-AR2-Eigenvalue-Decomposition.ipynb
+    - 02-Ergodicity.ipynb
     - references.qmd
 
 bibliography: references.bib
@@ -30,4 +25,4 @@ format:
 
 # Hide code cells by default in rendered outputs
 execute:
-  echo: false
+  echo: true
