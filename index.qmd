@@ -38,9 +38,8 @@ repository:
 
 ## Software Setup
 
-Please make sure that you have a working [Google](https://www.google.com/) and [GitHub](https://github.com/signup) accounts.
+Please make sure that you have a working [Google](https://www.google.com/) and [GitHub](https://github.com/signup) accounts (two factor authentication is recommended).
 
-We recommend that you enable a two factor authentication on both accounts.
 
 ## Recommended Reading
 
