@@ -13,7 +13,7 @@ book:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
         - 01c-AR2-Eigenvalue-Decomposition.ipynb
-    - 02-Ergodicity.ipynb
+    # - 02-Ergodicity.ipynb
     - references.qmd
 
 bibliography: references.bib
