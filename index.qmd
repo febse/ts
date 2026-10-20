@@ -15,6 +15,7 @@ Course notebooks will be linked here as they are added. Click to open these in G
 
 - [What does does it mean to multiply a vector by a matrix?](https://www.desmos.com/calculator/ljm5qdlxav)
 - [What are eigenvalues and eigenvectors?](https://www.desmos.com/calculator/vewpvnxrvj)
+- [Stationarity and Ergodicity](https://colab.research.google.com/github/boykoc/stats/blob/main/ts/02-Stationarity-Ergodicity.ipynb)
 
 ## Schedule
 
