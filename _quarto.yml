@@ -12,7 +12,7 @@ book:
       chapters:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
-        - 01c-AR2-Eigenvalue-Decomposition.ipynb
+        - 01c-AR2-Stationarity.ipynb
     - 02-Stationarity-Ergodicity.ipynb
     - references.qmd
 
