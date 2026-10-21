@@ -18,7 +18,7 @@ Course notebooks will be linked here as they are added. Click to open these in G
 
 - [Normal Distribution 3D](https://www.desmos.com/3d/ovxmchmv4k)
 - [Normal Distribution Contours](https://www.desmos.com/calculator/gijzqymawz)
-- [Stationarity and Ergodicity](https://colab.research.google.com/github/boykoc/stats/blob/main/ts/02-Stationarity-Ergodicity.ipynb)
+- [Stationarity and Ergodicity](https://colab.research.google.com/github/febse/ts/blob/main/02-Stationarity-Ergodicity.ipynb)
 
 
 ## Schedule
