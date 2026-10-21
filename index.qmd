@@ -13,8 +13,11 @@
 
 Course notebooks will be linked here as they are added. Click to open these in Google Colab. You can also download the notebooks and run them locally in Jupyter Notebook, Jupyter Lab, VS Code. or your favorite IDE (you should handle the dependencies installation when working locally).
 
+- [AR(2) Processes](https://colab.research.google.com/github/febse/ts/blob/main/01c-AR2-Stationarity.ipynb)
+
 - [What does does it mean to multiply a vector by a matrix?](https://www.desmos.com/calculator/ljm5qdlxav)
 - [What are eigenvalues and eigenvectors?](https://www.desmos.com/calculator/vewpvnxrvj)
+
 
 - [Normal Distribution 3D](https://www.desmos.com/3d/ovxmchmv4k)
 - [Normal Distribution Contours](https://www.desmos.com/calculator/gijzqymawz)
