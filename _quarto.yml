@@ -8,12 +8,13 @@ book:
   date: last-modified
   chapters:
     - index.qmd
+    - 00-Statistics-Review.ipynb
     - part: "Linear Difference Equations"
       chapters:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
         - 01c-AR2-Stationarity.ipynb
-    - 02-Stationarity-Ergodicity.ipynb
+        - 02-Stationarity-Ergodicity.ipynb
     - references.qmd
 
 bibliography: references.bib
