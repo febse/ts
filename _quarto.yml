@@ -18,6 +18,7 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
+    - 00-Statistics-Review.ipynb
     - part: "Linear Difference Equations"
       chapters:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
