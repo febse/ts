@@ -1,51 +1,64 @@
-# General Information {.unnumbered}
+# Welcome {.unnumbered}
+
+This is the companion site for the course **Introduction to Time Series
+Analysis**. It collects the lecture notebooks, interactive demos, and
+class materials in one place. Code in the notebooks is folded by default:
+click **Show code** to expand a block, or use **\</\> Code** in the page
+header to expand all blocks at once.
 
 ::: callout-note
-## Site URL
+## Course site
 
-[{{< var url >}}]({{< var url >}}){style="font-size:2em; margin-left: 1em;"}
+[{{< var url >}}]({{< var url >}})
 
-![](figures/qr_code.png)
+![](figures/qr_code.png){width=160}
 :::
 
+## Course Materials
 
-## Class Notebooks
+### Notebooks
 
-Course notebooks will be linked here as they are added. Click to open these in Google Colab. You can also download the notebooks and run them locally in Jupyter Notebook, Jupyter Lab, VS Code. or your favorite IDE (you should handle the dependencies installation when working locally).
+Open a notebook in Google Colab, or download it and run it locally in
+Jupyter, VS Code, or your favorite IDE (when working locally you are
+responsible for installing the dependencies).
 
-- [AR(2) Processes](https://colab.research.google.com/github/febse/ts/blob/main/01c-AR2-Stationarity.ipynb)
+| Topic | Open in Colab |
+|-------|---------------|
+| AR(2) processes | [Colab](https://colab.research.google.com/github/febse/ts/blob/main/01c-AR2-Stationarity.ipynb) |
+| Stationarity and ergodicity | [Colab](https://colab.research.google.com/github/febse/ts/blob/main/02-Stationarity-Ergodicity.ipynb) |
 
-- [What does does it mean to multiply a vector by a matrix?](https://www.desmos.com/calculator/ljm5qdlxav)
-- [What are eigenvalues and eigenvectors?](https://www.desmos.com/calculator/vewpvnxrvj)
+### Interactive Demos
 
+- [Multiplying a vector by a matrix](https://www.desmos.com/calculator/ljm5qdlxav)
+- [Eigenvalues and eigenvectors](https://www.desmos.com/calculator/vewpvnxrvj)
+- [Normal distribution in 3D](https://www.desmos.com/3d/ovxmchmv4k)
+- [Normal distribution contours](https://www.desmos.com/calculator/gijzqymawz)
 
-- [Normal Distribution 3D](https://www.desmos.com/3d/ovxmchmv4k)
-- [Normal Distribution Contours](https://www.desmos.com/calculator/gijzqymawz)
-- [Stationarity and Ergodicity](https://colab.research.google.com/github/febse/ts/blob/main/02-Stationarity-Ergodicity.ipynb)
+## Course Information
 
+### Schedule
 
-## Schedule
+| Group | Day | Time | Room |
+|-------|-----|------|------|
+| 1 (in Bulgarian) | Wednesday | 9:30--11:00 | 520 |
+| 2 | Wednesday | 13:15--14:45 | 308k |
+| 3 | Wednesday | 13:15--14:45 | 215k |
+| 4 | Thursday | 10:15--11:45 | 302k |
 
-1. Wednesday, 9:30-11:00, room 520 (in Bulgarian)
-2. Wednesday, 13:15-14:45, room 308k
-3. Wednesday, 13:15-14:45, room 215k
-4. Thursday, 10:15-11:45, room 302k
+### Grading
 
-## Grading
+To be announced.
 
-TBA
+### Software Setup
 
-## GitHub Repository
+Make sure you have a working [Google](https://www.google.com/) account and a
+[GitHub](https://github.com/signup) account (two-factor authentication is
+recommended).
 
-All course materials for the exercise classes will be available in the GitHub
-repository:
+### GitHub Repository
 
-[{{< var github >}}]({{< var github >}})
-
-## Software Setup
-
-Please make sure that you have a working [Google](https://www.google.com/) and [GitHub](https://github.com/signup) accounts (two factor authentication is recommended).
-
+All materials for the exercise classes are available in the repository:
+[{{< var github >}}]({{< var github >}}).
 
 ## Recommended Reading
 

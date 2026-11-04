@@ -4,8 +4,18 @@ project:
 
 book:
   title: "Introduction to Time Series Analysis"
+  subtitle: "Lecture and class notebooks"
   author: "Boyko Amarov"
   date: last-modified
+  date-format: "D MMMM YYYY"
+  repo-url: https://github.com/febse/ts/
+  repo-actions: [edit, issue]
+  search: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
   chapters:
     - index.qmd
     - part: "Linear Difference Equations"
@@ -13,16 +23,33 @@ book:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
         - 01c-AR2-Stationarity.ipynb
-    - 02-Stationarity-Ergodicity.ipynb
+    - part: "Stationarity"
+      chapters:
+        - 02-Stationarity-Ergodicity.ipynb
     - references.qmd
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles.scss]
     html-math-method: katex
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    smooth-scroll: true
+    code-fold: true
+    code-summary: "Show code"
+    code-tools: true
+    code-copy: true
+    code-line-numbers: false
+    fig-align: center
+    fig-responsive: true
+    link-external-newwindow: true
 
-# Hide code cells by default in rendered outputs
+# Code is executed and shown, but folded by default (see code-fold above)
 execute:
   echo: true
+  warning: false

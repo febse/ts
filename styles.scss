@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "Segoe UI", Roboto, sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+$headings-font-weight: 600;
+$code-color: #8a3b8a;
+
+/*-- scss:rules --*/
+main.content {
+  max-width: 52rem;
+}
+
+h1.title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* Folded code blocks: subtle summary toggle */
+details.code-fold > summary {
+  color: #6c757d;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+div.sourceCode {
+  border-radius: 6px;
+  font-size: 0.88rem;
+}
+
+/* Keep wide equations from overflowing on small screens */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.callout {
+  border-radius: 6px;
+}
