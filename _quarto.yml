@@ -24,9 +24,10 @@ book:
         - 01a-Homogeneous-Linear-Difference-Equations.ipynb
         - 01b-Non-Homogeneous-Difference-Equations.ipynb
         - 01c-AR2-Stationarity.ipynb
-    - part: "Stationarity"
-      chapters:
         - 02-Stationarity-Ergodicity.ipynb
+    - part: "ARIMA Models"
+      chapters:
+        - 04-ARIMA.ipynb
     - references.qmd
 
 bibliography: references.bib
