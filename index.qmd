@@ -26,6 +26,8 @@ responsible for installing the dependencies).
 |-------|---------------|
 | AR(2) processes | [Colab](https://colab.research.google.com/github/febse/ts/blob/main/01c-AR2-Stationarity.ipynb) |
 | Stationarity and ergodicity | [Colab](https://colab.research.google.com/github/febse/ts/blob/main/02-Stationarity-Ergodicity.ipynb) |
+| Fittin AR/MA models | [Colab](https://colab.research.google.com/github/febse/ts/blob/main/05-ARMA-Fitting-Class.ipynb) |
+
 
 ### Interactive Demos
 
