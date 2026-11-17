@@ -27,7 +27,9 @@ book:
         - 02-Stationarity-Ergodicity.ipynb
     - part: "ARIMA Models"
       chapters:
-        - 04-ARMA.ipynb
+        - 04-ARMA.ipynb        
+        - 06-AIC.ipynb
+        - 06-ARIMA-Forecasting.ipynb
     - references.qmd
 
 bibliography: references.bib
